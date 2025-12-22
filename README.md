@@ -35,4 +35,40 @@ Each product is assigned a **unique blockchain ID**, which is encoded into a **Q
 - 🦊 **MetaMask Wallet Integration**
 - 🌐 **Interactive Web Interface**
 
+---
+
+## 🔄 Supply Chain Flow
+
+At each stage, product details and ownership updates are recorded on the blockchain, ensuring full transparency and trust among stakeholders.
+
+---
+
+## 🧠 How QR Code Integration Works
+
+1. A product is created on the blockchain with a unique Product ID.
+2. The Product ID is converted into a QR code.
+3. The QR code is attached to the physical product.
+4. When scanned, the application fetches product details from the blockchain.
+5. Users can verify authenticity and view the complete lifecycle of the product.
+
+---
+
+## 🛠️ Tech Stack
+
+### Blockchain
+- **Solidity** – Smart contracts
+- **Ethereum** – Blockchain network
+- **Ganache** – Local blockchain for development
+
+### Frontend
+- **React / Next.js**
+- **Web3.js / Ethers.js**
+- **Tailwind CSS**
+
+### Tools & Libraries
+- **MetaMask** – Wallet integration
+- **qrcode** – QR code generation
+- **react-qr-reader** – QR code scanning
+- **Hardhat / Truffle** – Smart contract deployment
+
 

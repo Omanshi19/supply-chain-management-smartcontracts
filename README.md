@@ -7,7 +7,7 @@
 ![QR Code](https://img.shields.io/badge/QR_Code-000000?style=for-the-badge&logo=qrcode) 
 
 
-# 🧩 Blockchain-Based Supply Chain Management System with QR Code Verification
+# 🧩 Blockchain-Based Supply Chain Management System with QR Code Verification 
 
 A decentralized supply chain management system built on blockchain that ensures **end-to-end transparency, traceability, and authenticity of products**. The project is extended with **QR code generation and scanning**, enabling real-time verification of products and their complete lifecycle on the blockchain. 
    

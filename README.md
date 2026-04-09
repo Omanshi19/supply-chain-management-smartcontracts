@@ -11,7 +11,7 @@
 
 A decentralized supply chain management system built on blockchain that ensures **end-to-end transparency, traceability, and authenticity of products**. The project is extended with **QR code generation and scanning**, enabling real-time verification of products and their complete lifecycle on the blockchain.
 
----
+--- 
 
 ## 🚀 Project Overview
 

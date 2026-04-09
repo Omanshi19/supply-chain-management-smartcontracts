@@ -4,7 +4,7 @@
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js)
 ![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black)
 ![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask)
-![QR Code](https://img.shields.io/badge/QR_Code-000000?style=for-the-badge&logo=qrcode)
+![QR Code](https://img.shields.io/badge/QR_Code-000000?style=for-the-badge&logo=qrcode) 
 
 
 # 🧩 Blockchain-Based Supply Chain Management System with QR Code Verification
